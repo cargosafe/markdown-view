@@ -1,0 +1,20 @@
+{
+  "name": "markdown-view",
+  "repo": "cargosafe/markdown-view",
+  "description": "Request a Markdown file and retrieve parsed html",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/classes": "1.1.4",
+    "component/emitter": "1.1.0",
+    "component/marked": "0.2.7",
+    "visionmedia/superagent": "0.15.4",
+    "yields/store": "0.2.0"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
